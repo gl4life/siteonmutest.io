@@ -46241,15 +46241,24 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 464px;
+  }
+
   .u-footer .u-text-1 {
-    margin-top: 190px;
+    margin-top: 200px;
     margin-right: 0;
     margin-left: 32px;
   }
 
   .u-footer .u-text-2 {
-    margin-top: -415px;
+    margin-top: -416px;
     margin-left: 12px;
+  }
+
+  .u-footer .u-text-3 {
+    margin-top: 142px;
+    margin-bottom: 60px;
   }
 }
 
