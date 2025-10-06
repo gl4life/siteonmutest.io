@@ -1,0 +1,225 @@
+ .u-section-1 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(178, 154, 54, 0.25), rgba(178, 154, 54, 0.25)), url('images/goroda-zdaniya-doma-odessa-opernyj-teatr-113015.jpg');
+  background-size: cover, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 284px;
+  height: 284px;
+  margin: 60px auto 0 -68px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: -182px 247px 162px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 344px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 189px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+    margin-right: 142px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 464px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 49px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 28px;
+    margin-right: auto;
+  }
+} .u-section-2 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5490196078431373), rgba(0, 0, 0, 0.5490196078431373)), url('images/photo-1663660134121-1dbdd9101f01.jpeg');
+  background-size: cover, cover;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 230px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 19px -69px 19px 233px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.3333333333333333rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 413px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+  }
+} .u-section-3 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6588235294117647), rgba(0, 0, 0, 0.6588235294117647)), url('images/photo-1663660134121-1dbdd9101f01.jpeg');
+  background-size: cover, cover;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 942px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  text-transform: uppercase;
+  margin: 100px -55px 0 725px;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  text-transform: uppercase;
+  margin: -653px 470px 0 285px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  text-transform: uppercase;
+  margin: -729px 879px 60px -94px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1754px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 470px;
+    margin-top: 816px;
+    margin-left: 525px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 385px;
+    margin-top: 20px;
+    margin-right: 370px;
+    margin-left: 185px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: 20px;
+    margin-right: 679px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1382px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 305px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 260px;
+    margin-left: 75px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 459px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1572px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.3333333333333333rem;
+    margin-top: 893px;
+    margin-left: 125px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1.3333333333333333rem;
+    margin-right: 155px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    font-size: 1.3333333333333333rem;
+    margin-right: 279px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 828px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 0.75rem;
+    width: auto;
+    margin-top: 27px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 0.75rem;
+    width: auto;
+    margin-top: 13px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    font-size: 0.75rem;
+    width: auto;
+    margin: 39px 0;
+  }
+}
