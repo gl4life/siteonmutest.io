@@ -46242,22 +46242,22 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 464px;
+    min-height: 669px;
   }
 
   .u-footer .u-text-1 {
-    margin-top: 200px;
+    margin-top: 270px;
     margin-right: 0;
     margin-left: 32px;
   }
 
   .u-footer .u-text-2 {
-    margin-top: -416px;
+    margin-top: -444px;
     margin-left: 12px;
   }
 
   .u-footer .u-text-3 {
-    margin-top: 142px;
+    margin-top: 329px;
     margin-bottom: 60px;
   }
 }

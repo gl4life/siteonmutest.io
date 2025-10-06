@@ -78,6 +78,7 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-group-1 {
+    margin-top: 20px;
     height: auto;
   }
 
@@ -86,11 +87,42 @@
   }
 
   .u-section-2 .u-group-2 {
+    margin-top: 20px;
     height: auto;
   }
 
   .u-section-2 .u-text-2 {
     line-height: 1.2;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2099px;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: 833px;
+    margin-top: 11px;
+    margin-right: auto;
+    margin-left: 22px;
+  }
+
+  .u-section-2 .u-group-2 {
+    min-height: 958px;
+    margin-top: 11px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 123px;
+    height: 123px;
+    margin-top: -126px;
+    margin-right: 18px;
+    margin-bottom: 40px;
   }
 }
 
@@ -106,7 +138,7 @@
   }
 
   .u-section-2 .u-group-1 {
-    margin-top: -206px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -115,8 +147,7 @@
   }
 
   .u-section-2 .u-group-2 {
-    margin-top: -206px;
-    margin-left: 5px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -127,26 +158,44 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1611px;
+    min-height: 2551px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 340px;
     height: 142px;
+    margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-group-1 {
-    width: 340px;
-    margin-top: -123px;
+    min-height: 853px;
+    margin-top: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding: 0 0 30px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-bottom: -276px;
   }
 
   .u-section-2 .u-group-2 {
-    width: 340px;
-    margin-top: -123px;
-    margin-left: 0;
+    min-height: 1347px;
+    margin-top: 191px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-image-2 {
-    margin-right: 89px;
+    margin: 321px auto 60px 0;
   }
 }
